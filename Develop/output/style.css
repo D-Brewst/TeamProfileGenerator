@@ -1,0 +1,17 @@
+.jumbotron{
+    background-color: blue;
+    color: white;
+}
+
+.employee-card{
+    display: inline-block;
+}
+
+.card-header{
+    background-color: aquamarine;
+}
+
+.container{
+    margin-top: 30px;
+}
+

@@ -135,7 +135,7 @@ async function nextMember() {
       break;
     case "No more employees to add":
       let html = render(arr);
-      writeFileAsync("index.html", html);
+      writeFileAsync("./output/team.html", html);
     default:
       return;
   }
