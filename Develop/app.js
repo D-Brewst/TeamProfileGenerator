@@ -151,7 +151,7 @@ async function init() {
       managerAnswers.officeNumber
     );
     arr.push(manager);
-    console.log("success");
+    console.log("Success!");
     nextMember();
   } catch (err) {
     console.log(err);
